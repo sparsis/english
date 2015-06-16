@@ -1,0 +1,27 @@
+mechanic - mecânico
+computer programmer - programador
+astronaut - astronauta
+truck driver - motorista
+teacher - professor
+detective - detetive
+chef - chefe de cozinha
+artist - artista
+pilot - piloto
+florist - florista
+baker - padeiro
+nurse - enfermeiro
+doctor - médico
+electrician - eletricista
+police officer - policial
+postal worker - carteiro
+plumber - encanador
+judge - juíz
+firefighter - bombeiro
+janitor - zelador
+painter - pintor
+scientist - cientista
+construction worker - trabalhador da construção civil
+musician - músico
+veterinarian - veterinário
+waiter - garçom
+flight attendant - aeromoça/comissário de bordo

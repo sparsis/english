@@ -1,0 +1,26 @@
+cockatoo - cacatua
+macaw - arara
+emu - ema
+woodpecker - pica-pau
+eagle - águia
+sparrow - pardal
+peacock - pavão
+kingfisher - martim-pescador
+pelican - pelicano
+pigeon - pigeon
+owl - coruja
+vulture - abutre/urubu
+toucan - tucano
+crow - corvo
+ostrich - ostrich
+hummingbird - colibri/beija-flor
+dove - pombo
+canary - canário
+flamingo - flamingo
+parrot - papagaio/arara
+swan - cisne
+crane - garça azul
+hawk - falcão
+seagull - gaivota
+lovebird - periquito
+falcon - falcão
