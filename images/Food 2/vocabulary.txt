@@ -1,10 +1,28 @@
-parsnip
-leek
-butternut squash
-cabbage
-asparagus
-kalea
-artichoke
-zucchini
-pumpkin
-beet root
+lime
+pear
+strawberry
+mango
+fruits
+cherries
+cranberry
+cantaloupe
+papaya
+orange
+apricot
+pineapple
+grapefruit
+kiwi
+watermelon
+apple
+blackberries
+raspberries
+dragon fruit
+tomato
+coconut
+avocado
+blueberries
+plum
+banana
+peach
+lemon
+grapes
